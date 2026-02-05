@@ -1,4 +1,4 @@
-import { FaCalendar, FaGlobe, FaLocationArrow } from "react-icons/fa";
+import { FaCalendar, FaGlobe} from "react-icons/fa";
 
 export default function About() {
   return (
