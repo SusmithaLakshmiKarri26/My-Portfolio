@@ -23,8 +23,6 @@ It showcases my skills, projects, certifications, and contact information in a c
 - Dark / Light mode toggle
 - Smooth animations using Framer Motion
 - Fully responsive design
-- Projects & certifications showcase
-- Contact section
 - Clean UI for recruiters
 
 ---
@@ -38,20 +36,36 @@ git clone https://github.com/SusmithaLakshmiKarri26/My-Portfolio.git
 
 Navigate to the project folder:
 
-```cd my-portfolio```
+```bash
+cd my-portfolio
+```
 
 
 Install dependencies:
 
-```npm install```
+```bash
+npm install
+```
 
 
 Run the project locally:
 
-```npm start```
+```bash
+npm start
+```
 
 Build for Production
-```npm run build```
+```bash
+npm run build
+```
 
 🚀 Deployment : This project is deployed using ##Netlify.
 
+👩‍💻 Author
+
+Karri Susmitha Lakshmi
+📧 Email: susmithalakshmi666@gmail.com
+
+💼 LinkedIn: https://www.linkedin.com/in/susmithalakshmi-karri-074465257
+
+🐙 GitHub: https://github.com/SusmithaLakshmiKarri26
