@@ -6,8 +6,7 @@ It showcases my skills, projects, certifications, and contact information in a c
 ---
 
 ## 🚀 Live Demo
-🔗 https://your-site-name.netlify.app  
-*(Replace this link after deployment)*
+🔗 https://susmithakportfolio.netlify.app/
 
 ---
 
@@ -30,11 +29,29 @@ It showcases my skills, projects, certifications, and contact information in a c
 
 ---
 
----
-
 ## 📦 Installation & Setup
 
 Clone the repository:
 ```bash
 git clone https://github.com/SusmithaLakshmiKarri26/My-Portfolio.git
+```
+
+Navigate to the project folder:
+
+```cd my-portfolio```
+
+
+Install dependencies:
+
+```npm install```
+
+
+Run the project locally:
+
+```npm start```
+
+Build for Production
+```npm run build```
+
+🚀 Deployment : This project is deployed using ##Netlify.
 
