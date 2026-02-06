@@ -12,7 +12,7 @@ export default function Hero() {
       setCurrent((prev) => (prev + 1) % roles.length);
     }, 2000); // 2 seconds per role
     return () => clearInterval(interval);
-  }, []);
+  }, [roles.length]);
 
   return (
     <section id="hero" className="h-screen flex items-center justify-center pt-[70px]">
