@@ -59,11 +59,12 @@ Build for Production
 npm run build
 ```
 
-🚀 Deployment : This project is deployed using ##Netlify.
+🚀 Deployment : This project is deployed using **Netlify**.
 
 👩‍💻 Author
 
 Karri Susmitha Lakshmi
+
 📧 Email: susmithalakshmi666@gmail.com
 
 💼 LinkedIn: https://www.linkedin.com/in/susmithalakshmi-karri-074465257
